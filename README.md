@@ -21,5 +21,7 @@
 
 1. 克隆仓库
 ```bash
-git clone https://github.com/你的用户名/EC_EachChef.git
-cd EC_EachChef
+git clone https://gitee.com/sisu-aidc/pangxuanning.git
+cd EC_EachChef_gr.py
+pip install -r requirements.txt
+python EC_EachChef_gr.py
