@@ -17,11 +17,15 @@
 
 ## 🚀 快速开始
 
-### 本地运行
+### 方式一：从GitHub克隆（推荐）
 
-1. 克隆仓库
 ```bash
-git clone https://gitee.com/sisu-aidc/pangxuanning.git
-cd EC_EachChef_gr.py
+# 克隆仓库
+git clone https://github.com/54188-lisa/EC_EachChef.git
+cd EC_EachChef
+
+# 安装依赖
 pip install -r requirements.txt
+
+# 运行应用
 python EC_EachChef_gr.py
