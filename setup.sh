@@ -1,3 +1,8 @@
+git clone https://gitee.com/sisu-aidc/pangxuanning.git
+cd EC_EachChef_gr.py
+pip install -r requirements.txt
+python EC_EachChef_gr.py
+
 #!/bin/bash
 # 设置脚本 - 用于Hugging Face Spaces部署
 
